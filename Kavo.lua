@@ -137,7 +137,15 @@ local themeStyles = {
         Header = Color3.fromRGB(22, 29, 31),
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(22, 29, 31)
-    }
+    },
+    BetterGrape = {
+    SchemeColor = Color3.fromRGB(128, 41, 145),
+    Background = Color3.fromRGB(80, 48, 87),
+    Header = Color3.fromRGB(49, 34, 54),
+    TextColor = Color3.fromRGB(207, 207, 207),
+    ElementColor = Color3.fromRGB(74, 58, 84)
+}
+
 }
 local oldTheme = ""
 
